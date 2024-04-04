@@ -1,0 +1,13 @@
+C:\Users\48571\OneDrive\Pulpit\COMLab3\COMLab3\7\WmpAxLib\bin\Debug\WmpAxLib.dll
+C:\Users\48571\OneDrive\Pulpit\COMLab3\COMLab3\7\WmpAxLib\bin\Debug\WmpAxLib.pdb
+C:\Users\48571\OneDrive\Pulpit\COMLab3\COMLab3\7\WmpAxLib\bin\Debug\Interop.WMPLib.dll
+C:\Users\48571\OneDrive\Pulpit\COMLab3\COMLab3\7\WmpAxLib\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\48571\OneDrive\Pulpit\COMLab3\COMLab3\7\WmpAxLib\obj\Debug\WmpAxLib.csproj.AssemblyReference.cache
+C:\Users\48571\OneDrive\Pulpit\COMLab3\COMLab3\7\WmpAxLib\obj\Debug\Interop.WMPLib.dll
+C:\Users\48571\OneDrive\Pulpit\COMLab3\COMLab3\7\WmpAxLib\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\48571\OneDrive\Pulpit\COMLab3\COMLab3\7\WmpAxLib\obj\Debug\WmpAxLib.csproj.ResolveComReference.cache
+C:\Users\48571\OneDrive\Pulpit\COMLab3\COMLab3\7\WmpAxLib\obj\Debug\WmpAxLib.UserControl1.resources
+C:\Users\48571\OneDrive\Pulpit\COMLab3\COMLab3\7\WmpAxLib\obj\Debug\WmpAxLib.csproj.GenerateResource.cache
+C:\Users\48571\OneDrive\Pulpit\COMLab3\COMLab3\7\WmpAxLib\obj\Debug\WmpAxLib.csproj.CoreCompileInputs.cache
+C:\Users\48571\OneDrive\Pulpit\COMLab3\COMLab3\7\WmpAxLib\obj\Debug\WmpAxLib.dll
+C:\Users\48571\OneDrive\Pulpit\COMLab3\COMLab3\7\WmpAxLib\obj\Debug\WmpAxLib.pdb
